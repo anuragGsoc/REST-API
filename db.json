@@ -1,38 +1,158 @@
-{
-    "quiz": {
-        "sport": {
-            "q1": {
-                "question": "Which one is correct team name in NBA?",
-                "options": [
-                    "New York Bulls",
-                    "Los Angeles Kings",
-                    "Golden State Warriros",
-                    "Huston Rocket"
-                ],
-                "answer": "Huston Rocket"
-            }
-        },
-        "maths": {
-            "q1": {
-                "question": "5 + 7 = ?",
-                "options": [
-                    "10",
-                    "11",
-                    "12",
-                    "13"
-                ],
-                "answer": "12"
-            },
-            "q2": {
-                "question": "12 - 8 = ?",
-                "options": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
-                ],
-                "answer": "4"
-            }
-        }
-    }
-}
+[
+  {
+    "WHO": "Joe",
+    "WEEK": [
+      {
+        "NUMBER": 3,
+        "EXPENSE": [
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 18.00
+          },
+          {
+            "WHAT": "Food",
+            "AMOUNT": 12.00
+          },
+          {
+            "WHAT": "Food",
+            "AMOUNT": 19.00
+          },
+          {
+            "WHAT": "Car",
+            "AMOUNT": 20.00
+          }
+        ]
+      },
+      {
+        "NUMBER": 4,
+        "EXPENSE": [
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 19.00
+          },
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 16.00
+          },
+          {
+            "WHAT": "Food",
+            "AMOUNT": 17.00
+          },
+          {
+            "WHAT": "Food",
+            "AMOUNT": 17.00
+          },
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 14.00
+          }
+        ]
+      },
+      {
+        "NUMBER": 5,
+        "EXPENSE": [
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 14.00
+          },
+          {
+            "WHAT": "Food",
+            "AMOUNT": 12.00
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WHO": "Beth",
+    "WEEK": [
+      {
+        "NUMBER": 3,
+        "EXPENSE": [
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 16.00
+          }
+        ]
+      },
+      {
+        "NUMBER": 4,
+        "EXPENSE": [
+          {
+            "WHAT": "Food",
+            "AMOUNT": 17.00
+          },
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 15.00
+          }
+        ]
+      },
+      {
+        "NUMBER": 5,
+        "EXPENSE": [
+          {
+            "WHAT": "Food",
+            "AMOUNT": 12.00
+          },
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 20.00
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WHO": "Janet",
+    "WEEK": [
+      {
+        "NUMBER": 3,
+        "EXPENSE": [
+          {
+            "WHAT": "Car",
+            "AMOUNT": 19.00
+          },
+          {
+            "WHAT": "Food",
+            "AMOUNT": 18.00
+          },
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 18.00
+          }
+        ]
+      },
+      {
+        "NUMBER": 4,
+        "EXPENSE": [
+          {
+            "WHAT": "Car",
+            "AMOUNT": 17.00
+          }
+        ]
+      },
+      {
+        "NUMBER": 5,
+        "EXPENSE": [
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 14.00
+          },
+          {
+            "WHAT": "Car",
+            "AMOUNT": 12.00
+          },
+          {
+            "WHAT": "Beer",
+            "AMOUNT": 19.00
+          },
+          {
+            "WHAT": "Food",
+            "AMOUNT": 12.00
+          }
+        ]
+      }
+    ]
+  }
+]
